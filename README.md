@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nancydemir
 - 👀 I’m interested in working in IT in a support or development role.
-- 🌱 I’m currently learning business analytics utilizing various courses through Coursera.  I recently completed the Tableau Specialization.  
+- 🌱 I’m currently employed as an application support analyst II in the banking industry. I spend my free time learning through courses offered on Coursera.  I recently completed the Tableau Specialization.  
 - 💞️ I’m looking to collaborate on various projects in a team environment, although I am happy to work independently.
 - 📫 How to reach me nancy_demir@hotmail.com.
 
